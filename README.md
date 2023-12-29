@@ -4,7 +4,7 @@
 
 <img src="https://i.pinimg.com/originals/fb/5b/d1/fb5bd184cad927b617e31c272a4337ca.gif" alt="gif"/>
 
-I'm 20 y/o Studying Cybersecurity at Applied Computing King Saud University. My passion lies in Cyber Threat Hunting, Penetration Tester, Network, and Analysis Malware.
+I'm 20 y/o Studying bachelor's in Cybersecurity at Applied Computing King Saud University. My passion lies in Cyber Threat Hunting, Penetration testing, Network, and Analysis Malware.
 
 Skills: 
 * Python  
