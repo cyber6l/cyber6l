@@ -1,6 +1,6 @@
 
-### Hi there, I'm Talal
-## Cybersecurity
+## Hi there, I'm Talal
+### Cybersecurity
 
 
 <img src="https://i.pinimg.com/originals/fb/5b/d1/fb5bd184cad927b617e31c272a4337ca.gif" alt="gif"/>
