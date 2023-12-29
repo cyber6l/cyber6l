@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**cyber6l/cyber6l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Talal
+#### Cybersecurity
+![Cybersecurity](https://i.pinimg.com/564x/5f/a8/82/5fa8829bc5bc17db698ef4ff06be2fec.jpg)
 
-Here are some ideas to get you started:
+20 y/o Studying Cybersecurity at Applied Computing King Saud University. My passion lies in Cyber Threat Hunting, Penetration Tester Web, Network, and Analysis Malware.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: Python / CTF / Digital Forensics / Analysis Malware 
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cyber6l)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/talal-alqahtani-b757b1269/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@cyber6l)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/www.youtube.com/@cyber6l)  
+
