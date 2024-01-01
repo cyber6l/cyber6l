@@ -10,7 +10,7 @@ Skills:
 * Python  
 * CTF 
 * Digital Forensics 
-* Analysis Malware
+* Malware Analysis
   
 
 
