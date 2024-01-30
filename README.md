@@ -8,7 +8,8 @@ I'm 20 y/o Studying bachelor's in Cybersecurity at Applied Computing King Saud U
 
 Skills: 
 * Python  
-* CTF 
+* CTF
+* Bug Bounty Hunter
 * Digital Forensics 
 * Malware Analysis
   
