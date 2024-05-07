@@ -7,11 +7,9 @@
 I'm 20 y/o Studying bachelor's in Cybersecurity at Applied Computing King Saud University. My passion lies in Cyber Threat Hunting, Penetration testing, Network and Malware analysis.
 
 Skills: 
-* Python  
 * CTF
 * Bug Bounty Hunter
-* Digital Forensics 
-* Malware Analysis
+
   
 
 
