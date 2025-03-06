@@ -4,13 +4,7 @@
 
 <img src="https://i.pinimg.com/originals/fb/5b/d1/fb5bd184cad927b617e31c272a4337ca.gif" alt="gif"/>
 
-I'm 22 y/o Studying bachelor's in Cybersecurity at Applied Computing King Saud University. My passion lies in Cyber Threat Hunting, Penetration testing and Network.
 
-Skills: 
-* CTF
-* Bug Bounty Hunter
-* Kali Linux
-* Java
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
